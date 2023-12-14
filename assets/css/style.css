@@ -1,7 +1,14 @@
 @import url("https://fonts.googleapis.com/css2?family=Croissant+One&display=swap:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700");
 
+/*Header*/
+.bg-color-name-title {
+  background-color: #676767;
+}
 header {
   margin: 0;
+}
+.heading {
+  margin-left: 50px;
 }
 
 .logo {
