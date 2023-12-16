@@ -119,6 +119,9 @@ footer {
   min-height: 120px;
   margin: 0;
 }
+#footer-details {
+  padding: 20px;
+}
 .cv-pdf i {
   font-size: 18px;
   color: #fafafa;
